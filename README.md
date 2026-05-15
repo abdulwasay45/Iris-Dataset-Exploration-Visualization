@@ -5,6 +5,7 @@ Exploring and visualizing the Iris dataset using Pandas, Matplotlib, and Seaborn
 ## 📌 Project Overview
 This project focuses on exploring and visualizing the famous Iris Dataset. The goal is to understand basic data analysis techniques such as loading data, inspecting it, and visualizing patterns and distributions.
 ---
+## Submission By DHC-1768
 ## 📊 Dataset Information
 The Iris dataset is a well-known dataset in data science and machine learning. It contains measurements of iris flowers from three different species:
 - Iris Setosa  
@@ -44,3 +45,6 @@ The Iris dataset is a well-known dataset in data science and machine learning. I
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/abdulwasay45/Exploring-and-Visualizing-a-Simple-Dataset-TASK-1.git
+
+
+ 
