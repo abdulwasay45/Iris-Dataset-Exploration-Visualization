@@ -44,7 +44,7 @@ The Iris dataset is a well-known dataset in data science and machine learning. I
 ## 🚀 How to Run This Project
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/abdulwasay45/Exploring-and-Visualizing-a-Simple-Dataset-TASK-1.git
+git clone https://github.com/abdulwasay45/Exploring-and-Visualizing-a-Simple-Dataset-TASK-1-.git
 
 
  
